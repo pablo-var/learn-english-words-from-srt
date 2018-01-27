@@ -1,8 +1,9 @@
-Function that convert a srt file to an csv with the words order by occurrences. Only words with more than 1 occurrence.
+Function that creates a csv with the words order by occurrences from a srt file. Only words with more than 1 occurrence
+Non-stops words not included. Only English.
 
 Run it like this:
 
-python srt_to_txt.py file_name.srt csv_name.csv
+python srt_to_csv.py file_name.srt csv_name.csv
 
 Dependencies:
 - itertools
