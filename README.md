@@ -18,3 +18,5 @@ Perfect function in order to learn english efficiently:
 - Study the most frequent words you don't know before see the film with the 'csv_name' output.
 - Wath the film/tv show and see if you remember the words!
 - It helps for me!
+
+Reference : https://www.webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/
