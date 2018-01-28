@@ -1,5 +1,5 @@
-Function that creates a csv with the words sorted by frequency from a srt file. Only words with more than 1 occurrence
-Non-stops words not included. Only English.
+Function that creates a csv with the words sorted by frequency from a srt file. Only words with more than 1 occurrence. <p>
+Stops words not included. Only English.
 
 Run it like this:
 
