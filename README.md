@@ -13,9 +13,9 @@ Dependencies:
 - re, sys
 
 Perfect function in order to learn english efficiently:
-- You select the film/tv show you are going to see.
+- You select the film/tv show you are going to watch.
 - Apply the srt_to_csv function to the srt file associate.
-- Study the most frequent words you don't know before see the film with the 'csv_name' output.
+- Study the most frequent words you don't know before watch the film/tv show with the 'csv_name' output.
 - Wath the film/tv show and see if you remember the words!
 - It helps for me!
 
