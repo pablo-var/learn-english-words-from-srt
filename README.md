@@ -18,11 +18,13 @@ Dependencies:
 - pandas
 - re, sys
 
-Perfect function in order to learn english efficiently:
+Perfect function in order to learn English efficiently:
 - You select the film/tv show you are going to watch.
 - Apply the srt_to_csv function to the srt file associate.
 - Study the most frequent words you don't know before watch the film/tv show with the 'csv_name' output.
-- Wath the film/tv show and see if you remember the words!
+- Watch the film/tv show and see if you remember the words!
 - It helps for me!
 
-Reference : https://www.webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/
+References :
+- https://www.webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/
+- https://docs.python.org/2/library/collections.html
