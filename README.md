@@ -1,7 +1,13 @@
 Function that creates a csv with the words sorted by frequency from a srt file. Only words with more than 1 occurrence. <p>
-Stops words not included. Only English.
+Stops words not included. Only English. 
+  
+Test example with the film Artificial Intelligence (Steven Spielberg)
+- test.srt (Subtitles)
+- test.txt (Subtitle text)
+- test.csv (Output)
+- test.ipynb (Notebook with command)
 
-Run it like this:
+You can run with command prompt like this:
 
 python srt_to_csv.py file_name.srt csv_name.csv
 
