@@ -82,7 +82,7 @@ def main(args):
   for key, count in dropwhile(lambda key_count: key_count[1] >= 2, new_data.most_common()):
     del new_data[key]
   df = pd.DataFrame.from_dict(new_data.most_common())
-  df.columns = ['word', 'ocurrences']
+  df.columns = ['word', 'occurrences']
   csv_name = args[2]
   df.to_csv(csv_name, index = False)
 if __name__ == '__main__':
